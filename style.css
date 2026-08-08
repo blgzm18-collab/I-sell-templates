@@ -21,8 +21,8 @@ img { max-width: 100%; display: block; }
   --text-faint:    #6c6a76;
 
   --accent:        #fff;
-  --accent-dim:    rgba(245,185,66,0.14);
-  --accent-line:   rgba(245,185,66,0.35);
+  --accent-dim:    rgba(255,255,255,0.14);
+  --accent-line:   rgba(255,255,255,0.35);
   --on-accent:     #1a1305;
 
   --font-display: 'Space Grotesk', 'Inter', system-ui, sans-serif;
